@@ -169,3 +169,6 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+jg_inline_scripts.py
+jg_scripts.csv
